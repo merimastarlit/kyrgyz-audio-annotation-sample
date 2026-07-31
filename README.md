@@ -5,7 +5,7 @@ A work sample produced for an application, not prior professional annotation wor
 Transcription, tagging, and the judgments below are my own.
 
 **Contents**
-- `transcript.md` — 59 seconds of annotated Kyrgyz speech
+- `transcript.md` — 84 seconds of annotated Kyrgyz speech
 - `source.md` — source attribution and timestamps (no audio redistributed)
 - `audio/` — my own voice recordings
 
@@ -218,7 +218,7 @@ than annotator instinct.
 
 ## 7. Limitations
 
-59 seconds is a sample, not a corpus. One annotator, no
+84 seconds is a sample, not a corpus. One annotator, no
 inter-annotator agreement. Pauses estimated by ear. Standard orthography imposed
 on speech that does not always match it. No prior professional annotation
 experience — this is a first work sample
