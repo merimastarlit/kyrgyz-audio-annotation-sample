@@ -25,7 +25,6 @@ Transcription, tagging, and the judgments below are my own.
 **Speakers:** 
 
 S1 — Ernis Kyiazov; 
-
 ---
 S2 — Salamat Sadykova
 ---
@@ -233,7 +232,3 @@ typing English required nothing. Input friction is part of why Kyrgyz text data
 is scarce, which is part of why models underperform on it. 
 
 ---
-
-**Related work:** a pre-registered study measuring model performance degradation
-on Kyrgyz versus English across occupational tasks —
-github.com/merimastarlit/kyrgyz-occupational-eval
