@@ -108,10 +108,10 @@ contrasts Talas and Toktogul as the expected homelands of artists before asking
 how a star came from Batken instead.
 
 **What I heard.** 
-I heard specific southern dialect features. Rich descriptive Kyrgyz language, where I had trouble with some Russian words that are fully integrated to Kyrgyz language. I had to transribe the original speech despite it was Russian words. 
+I heard specific southern dialect features. Rich descriptive Kyrgyz language, where I had trouble with some Russian words that are fully integrated into the Kyrgyz language. I had to transcribe the original speech despite it being Russian words. 
 
 **Where my own dialect interfered.** 
-My northern dialect conflicted with one word тага журтунда as it doesn't exist in out dialect, rather we say it ата журтунда, but the host said both of these words, included both dialects next to each other. 
+My northern dialect conflicted with one word тага журтунда as it doesn't exist in our dialect, rather we say it ата журтунда, but the host said both of these words, included both dialects next to each other. 
 
 **Regionally marked vocabulary.** 
 өрүк-зарлуу — Batken is apricot country, it is a southern dialect based word, because apricots grow only there on the South of Kyrgyzstan
