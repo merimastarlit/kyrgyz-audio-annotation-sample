@@ -13,6 +13,8 @@ Transcription, tagging, and the judgments below are my own.
 
 ---
 
+**Related work:** [kyrgyz-occupational-eval](https://github.com/merimastarlit/kyrgyz-occupational-eval) — a pre-registered study measuring model performance degradation on Kyrgyz versus English across 20 occupational tasks.
+
 ## 1. Source and scope
 
 [Outlet, programme, speakers, timestamps, why you chose this clip.
